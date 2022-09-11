@@ -52,39 +52,4 @@ https://github.com/CAHLP-Team/Aquarium-project
 > * 현재 진행 프로젝트 : 3개 
 > * 참여 인원 : 10명 
 
-### 깃헙 준수사항
-
-> 1. 반드시 자기 브런치 라인지정해서 커밋후 푸시 해주세요 
-> 2. 반드시 path후 pull 해주세요 
-
-### 1.개발 팀원 
-> 1. gabang2
-> 2. cmsong111
-> 3. Nifskor
-> 4. kimyeounsu
-***
-### 동아리 자산 보유사항 
-> 1. 3D프린터 
-> 2. 동아리 NAS 서버 
-> 3. 회사 가상화 서버 (ESXI)
-> 4. 라우터 2개 
-> 5. UPS (2개) -> <font color ="red"> 축전지 문제로 교체중 </font>
-> 6. 백업서버 1개 ( 데이터 2중화 보안정책에 따른 수립) 
-> 7. 윈도우 클라우드 서버 
-> 8. POE 스위치 
-> 9. 아두이노 및 기타 센서등 다수 보유 
-***
-### 2.사용 언어 
-| 언어 | 사용유무 | 개발 부분|
-| ------ | --  |----------- |
-| 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ☑️  | 하드웨어 개발 부분   |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |   | 하드웨어 - 서버 통신 및 어플리케이션 부분  |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|   | 하드웨어 통신 부분 (예상) |
-***
-### 3. 개발 환경 
-| 사용 프로그램 | 사용유무 | 사용 부분 |
-| ------ | --  |----------- |
-| ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | ☑️  | 하드웨어 개발 부분   |
-| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|  ☑️  | 하드웨어 , 통신개발 , 코드 협업 부분(Live Share)  |
-| ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)|   | 어플리케이션 개발 부분  |
 
