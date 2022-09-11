@@ -2,7 +2,7 @@
 > * 동의대학교 창업교육센터 소속 - 창업동아리팀 <img src = "https://user-images.githubusercontent.com/92977647/152990322-3746ab69-4796-4ed9-b747-45db6c510263.png" width="
 140">팀입니다. 
 
-<img src = "https://user-images.githubusercontent.com/92977647/189530103-2fd6909a-4204-4d8e-a852-c367ac3f4a51.png" width="480px" height="500px"/>
+<img src = "https://user-images.githubusercontent.com/92977647/189530103-2fd6909a-4204-4d8e-a852-c367ac3f4a51.png" width="430px" height="470px"/>
 
 
 ### CAHLP 팀 비전 
